@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1553558548 source:c:\users\alumno\desktop\ejercicio clase 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Clifton.h"
+
+1553558505 c:\users\alumno\desktop\ejercicio clase 3\clifton.h
+
+1553559985 source:c:\users\alumno\desktop\ejercicio clase 3\clifton.c
+
